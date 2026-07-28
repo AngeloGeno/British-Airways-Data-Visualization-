@@ -8,7 +8,10 @@ The project demonstrates business intelligence techniques including interactive 
 
 ## Dashboard Preview
 
-> *(Insert Dashboard Screenshot Here)*
+<img width="1913" height="1075" alt="image" src="https://github.com/user-attachments/assets/80dfcd8a-e594-4bc1-9593-264266f7a486" />
+<img width="1918" height="1075" alt="image" src="https://github.com/user-attachments/assets/21d01ea4-0a48-48b6-8c30-e85c31d4f99e" />
+
+
 
 ---
 
